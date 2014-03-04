@@ -55,364 +55,364 @@ public class cards{
 			cards[1]=new JFrame ("Ace of Hearts");
 				cards[1].setSize(240,320);
 				cards[1].setLayout(new BorderLayout());
-				JLabel background1 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/AceOfHearts.png"));
+				JLabel background1 = new JLabel (new ImageIcon("img/AceOfHearts.png"));
 				cards[1].add(background1);
 				background1.setLayout(new FlowLayout());
 
 			cards[2]=new JFrame ("Two of Hearts") ;
 				cards[2].setSize(240,320);
 				cards[2].setLayout(new BorderLayout());
-				JLabel background2 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/TwoOfHearts.png"));
+				JLabel background2 = new JLabel (new ImageIcon("img/TwoOfHearts.png"));
 				cards[2].add(background2);
 				background2.setLayout(new FlowLayout());
 
 			cards[3]= new JFrame ("Three of Hearts");
 				cards[3].setSize(240,320);
 				cards[3].setLayout(new BorderLayout());
-				JLabel background3 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/ThreeOfHearts.png"));
+				JLabel background3 = new JLabel (new ImageIcon("img/ThreeOfHearts.png"));
 				cards[3].add(background3);
 				background3.setLayout(new FlowLayout());
 
 			cards[4]=new JFrame ("Four of Hearts") ;
 				cards[4].setSize(240,320);
 				cards[4].setLayout(new BorderLayout());
-				JLabel background4 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/FourOfHearts.png"));
+				JLabel background4 = new JLabel (new ImageIcon("img/FourOfHearts.png"));
 				cards[4].add(background4);
 				background4.setLayout(new FlowLayout());
 
 			cards[5]= new JFrame ("Five of Hearts") ;
 				cards[5].setSize(240,320);
 				cards[5].setLayout(new BorderLayout());
-				JLabel background5 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/FiveOfHearts.png"));
+				JLabel background5 = new JLabel (new ImageIcon("img/FiveOfHearts.png"));
 				cards[5].add(background5);
 				background5.setLayout(new FlowLayout());
 
 			cards[6]= new JFrame ("Six of Hearts") ;
 				cards[6].setSize(240,320);
 				cards[6].setLayout(new BorderLayout());
-				JLabel background6 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/SixOfHearts.png"));
+				JLabel background6 = new JLabel (new ImageIcon("img/SixOfHearts.png"));
 				cards[6].add(background6);
 				background6.setLayout(new FlowLayout());
 
 			cards[7]= new JFrame ("Seven of Hearts"); 
 				cards[7].setSize(240,320);
 				cards[7].setLayout(new BorderLayout());
-				JLabel background7 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/SevenOfHearts.png"));
+				JLabel background7 = new JLabel (new ImageIcon("img/SevenOfHearts.png"));
 				cards[7].add(background7);
 				background7.setLayout(new FlowLayout());
 
 			cards[8]= new JFrame ("Eight of Hearts") ;
 				cards[8].setSize(240,320);
 				cards[8].setLayout(new BorderLayout());
-				JLabel background8 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/EightOfHearts.png"));
+				JLabel background8 = new JLabel (new ImageIcon("img/EightOfHearts.png"));
 				cards[8].add(background8);
 				background8.setLayout(new FlowLayout());
 
 			cards[9]= new JFrame ("Nine of Hearts") ;
 				cards[9].setSize(240,320);
 				cards[9].setLayout(new BorderLayout());
-				JLabel background9 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/NineOfHearts.png"));
+				JLabel background9 = new JLabel (new ImageIcon("img/NineOfHearts.png"));
 				cards[9].add(background9);
 				background9.setLayout(new FlowLayout());
 
 			cards[10]=new JFrame ("Ten of Hearts");
 				cards[10].setSize(240,320);
 				cards[10].setLayout(new BorderLayout());
-				JLabel background10 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/TenOfHearts.png"));
+				JLabel background10 = new JLabel (new ImageIcon("img/TenOfHearts.png"));
 				cards[10].add(background10);
 				background10.setLayout(new FlowLayout());
 
 			cards[11]= new JFrame ("Jack of Hearts") ;
 				cards[11].setSize(240,320);
 				cards[11].setLayout(new BorderLayout());
-				JLabel background11 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/JackOfHearts.png"));
+				JLabel background11 = new JLabel (new ImageIcon("img/JackOfHearts.png"));
 				cards[11].add(background11);
 				background11.setLayout(new FlowLayout());
 
 			cards[12]= new JFrame ("Queen of Hearts") ;
 				cards[12].setSize(240,320);
 				cards[12].setLayout(new BorderLayout());
-				JLabel background12 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/QueenOfHearts.png"));
+				JLabel background12 = new JLabel (new ImageIcon("img/QueenOfHearts.png"));
 				cards[12].add(background12);
 				background12.setLayout(new FlowLayout());
 
 			cards[13]= new JFrame ("King of Hearts");
 				cards[13].setSize(240,320);
 				cards[13].setLayout(new BorderLayout());
-				JLabel background13 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/KingOfHearts.png"));
+				JLabel background13 = new JLabel (new ImageIcon("img/KingOfHearts.png"));
 				cards[13].add(background13);
 				background13.setLayout(new FlowLayout());
 
 			cards[14]= new JFrame ("Ace of Diamonds") ;
 				cards[14].setSize(240,320);
 				cards[14].setLayout(new BorderLayout());
-				JLabel background14 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/AceOfDiamonds.png"));
+				JLabel background14 = new JLabel (new ImageIcon("img/AceOfDiamonds.png"));
 				cards[14].add(background14);
 				background14.setLayout(new FlowLayout());
 
 			cards[15]= new JFrame ("Two of Diamonds"); 
 				cards[15].setSize(240,320);
 				cards[15].setLayout(new BorderLayout());
-				JLabel background15 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/TwoOfDiamonds.png"));
+				JLabel background15 = new JLabel (new ImageIcon("img/TwoOfDiamonds.png"));
 				cards[15].add(background15);
 				background15.setLayout(new FlowLayout());
 
 			cards[16]= new JFrame ("Three of Diamonds") ;
 				cards[16].setSize(240,320);
 				cards[16].setLayout(new BorderLayout());
-				JLabel background16 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/ThreeOfDiamonds.png"));
+				JLabel background16 = new JLabel (new ImageIcon("img/ThreeOfDiamonds.png"));
 				cards[16].add(background16);
 				background16.setLayout(new FlowLayout());
 
 			cards[17]= new JFrame ("Four of Diamonds") ;
 				cards[17].setSize(240,320);
 				cards[17].setLayout(new BorderLayout());
-				JLabel background17 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/FourOfDiamonds.png"));
+				JLabel background17 = new JLabel (new ImageIcon("img/FourOfDiamonds.png"));
 				cards[17].add(background17);
 				background17.setLayout(new FlowLayout());
 
 			cards[18]= new JFrame ("Five of Diamonds") ;
 				cards[18].setSize(240,320);
 				cards[18].setLayout(new BorderLayout());
-				JLabel background18 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/FiveOfDiamonds.png"));
+				JLabel background18 = new JLabel (new ImageIcon("img/FiveOfDiamonds.png"));
 				cards[18].add(background18);
 				background18.setLayout(new FlowLayout());
 
 			cards[19]= new JFrame ("Six of Diamonds") ;
 				cards[19].setSize(240,320);
 				cards[19].setLayout(new BorderLayout());
-				JLabel background19 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/SixOfDiamonds.png"));
+				JLabel background19 = new JLabel (new ImageIcon("img/SixOfDiamonds.png"));
 				cards[19].add(background19);
 				background19.setLayout(new FlowLayout());
 
 			cards[20]= new JFrame ("Seven of Diamonds") ;
 				cards[20].setSize(240,320);
 				cards[20].setLayout(new BorderLayout());
-				JLabel background20 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/SevenOfDiamonds.png"));
+				JLabel background20 = new JLabel (new ImageIcon("img/SevenOfDiamonds.png"));
 				cards[20].add(background20);
 				background20.setLayout(new FlowLayout());
 
 			cards[21]= new JFrame ("Eight of Diamonds") ;
 				cards[21].setSize(240,320);
 				cards[21].setLayout(new BorderLayout());
-				JLabel background21 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/EightOfDiamonds.png"));
+				JLabel background21 = new JLabel (new ImageIcon("img/EightOfDiamonds.png"));
 				cards[21].add(background21);
 				background21.setLayout(new FlowLayout());
 
 			cards[22]= new JFrame ("Nine of Diamonds"); 
 				cards[22].setSize(240,320);
 				cards[22].setLayout(new BorderLayout());
-				JLabel background22 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/NineOfDiamonds.png"));
+				JLabel background22 = new JLabel (new ImageIcon("img/NineOfDiamonds.png"));
 				cards[22].add(background22);
 				background22.setLayout(new FlowLayout());
 
 			cards[23]= new JFrame ("Ten of Diamonds");
 				cards[23].setSize(240,320);
 				cards[23].setLayout(new BorderLayout());
-				JLabel background23 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/TenOfDiamonds.png"));
+				JLabel background23 = new JLabel (new ImageIcon("img/TenOfDiamonds.png"));
 				cards[23].add(background23);
 				background23.setLayout(new FlowLayout());
 
 			cards[24]=new JFrame ("Jack of Diamonds") ;
 				cards[24].setSize(240,320);
 				cards[24].setLayout(new BorderLayout());
-				JLabel background24 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/JackOfDiamonds.png"));
+				JLabel background24 = new JLabel (new ImageIcon("img/JackOfDiamonds.png"));
 				cards[24].add(background24);
 				background24.setLayout(new FlowLayout());
 
 			cards[25]= new JFrame ("Queen of Diamonds") ;
 				cards[25].setSize(240,320);
 				cards[25].setLayout(new BorderLayout());
-				JLabel background25 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/QueenOfDiamonds.png"));
+				JLabel background25 = new JLabel (new ImageIcon("img/QueenOfDiamonds.png"));
 				cards[25].add(background25);
 				background25.setLayout(new FlowLayout());
 
 			cards[26]= new JFrame ("King of Diamonds");
 				cards[26].setSize(240,320);
 				cards[26].setLayout(new BorderLayout());
-				JLabel background26 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/KingOfDiamonds.png"));
+				JLabel background26 = new JLabel (new ImageIcon("img/KingOfDiamonds.png"));
 				cards[26].add(background26);
 				background26.setLayout(new FlowLayout());
 
 			cards[27]= new JFrame ("Ace of Clubs") ;
 				cards[27].setSize(240,320);
 				cards[27].setLayout(new BorderLayout());
-				JLabel background27 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/AceOfClubs.png"));
+				JLabel background27 = new JLabel (new ImageIcon("img/AceOfClubs.png"));
 				cards[27].add(background27);
 				background27.setLayout(new FlowLayout());
 
 			cards[28]= new JFrame ("Two of Clubs") ;
 				cards[28].setSize(240,320);
 				cards[28].setLayout(new BorderLayout());
-				JLabel background28 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/TwoOfClubs.png"));
+				JLabel background28 = new JLabel (new ImageIcon("img/TwoOfClubs.png"));
 				cards[28].add(background28);
 				background28.setLayout(new FlowLayout());
 
 			cards[29]= new JFrame ("Three of Clubs") ;
 				cards[29].setSize(240,320);
 				cards[29].setLayout(new BorderLayout());
-				JLabel background29 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/ThreeOfClubs.png"));
+				JLabel background29 = new JLabel (new ImageIcon("img/ThreeOfClubs.png"));
 				cards[29].add(background29);
 				background29.setLayout(new FlowLayout());
 
 			cards[30]= new JFrame ("Four of Clubs") ;
 				cards[30].setSize(240,320);
 				cards[30].setLayout(new BorderLayout());
-				JLabel background30 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/FourOfClubs.png"));
+				JLabel background30 = new JLabel (new ImageIcon("img/FourOfClubs.png"));
 				cards[30].add(background30);
 				background30.setLayout(new FlowLayout());
 
 			cards[31]= new JFrame ("Five of Clubs") ;
 				cards[31].setSize(240,320);
 				cards[31].setLayout(new BorderLayout());
-				JLabel background31 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/FiveOfClubs.png"));
+				JLabel background31 = new JLabel (new ImageIcon("img/FiveOfClubs.png"));
 				cards[31].add(background31);
 				background31.setLayout(new FlowLayout());
 
 			cards[32]= new JFrame ("Six of Clubs") ;
 				cards[32].setSize(240,320);
 				cards[32].setLayout(new BorderLayout());
-				JLabel background32 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/SixOfClubs.png"));
+				JLabel background32 = new JLabel (new ImageIcon("img/SixOfClubs.png"));
 				cards[32].add(background32);
 				background32.setLayout(new FlowLayout());
 
 			cards[33]= new JFrame ("Seven of Clubs") ;
 				cards[33].setSize(240,320);
 				cards[33].setLayout(new BorderLayout());
-				JLabel background33 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/SevenOfClubs.png"));
+				JLabel background33 = new JLabel (new ImageIcon("img/SevenOfClubs.png"));
 				cards[33].add(background33);
 				background33.setLayout(new FlowLayout());
 
 			cards[34]= new JFrame ("Eight of Clubs") ;
 				cards[34].setSize(240,320);
 				cards[34].setLayout(new BorderLayout());
-				JLabel background34 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/EightOfClubs.png"));
+				JLabel background34 = new JLabel (new ImageIcon("img/EightOfClubs.png"));
 				cards[34].add(background34);
 				background34.setLayout(new FlowLayout());
 
 			cards[35]= new JFrame ("Nine of Clubs") ;
 				cards[35].setSize(240,320);
 				cards[35].setLayout(new BorderLayout());
-				JLabel background35 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/NineOfClubs.png"));
+				JLabel background35 = new JLabel (new ImageIcon("img/NineOfClubs.png"));
 				cards[35].add(background35);
 				background35.setLayout(new FlowLayout());
 
 			cards[36]= new JFrame ("Ten of Clubs");
 				cards[36].setSize(240,320);
 				cards[36].setLayout(new BorderLayout());
-				JLabel background36 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/TenOfClubs.png"));
+				JLabel background36 = new JLabel (new ImageIcon("img/TenOfClubs.png"));
 				cards[36].add(background36);
 				background36.setLayout(new FlowLayout());
 
 			cards[37]= new JFrame ("Jack of Clubs") ;
 				cards[37].setSize(240,320);
 				cards[37].setLayout(new BorderLayout());
-				JLabel background37 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/JackOfClubs.png"));
+				JLabel background37 = new JLabel (new ImageIcon("img/JackOfClubs.png"));
 				cards[37].add(background37);
 				background37.setLayout(new FlowLayout());
 
 			cards[38]= new JFrame ("Queen of Clubs") ;
 				cards[38].setSize(240,320);
 				cards[38].setLayout(new BorderLayout());
-				JLabel background38 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/QueenOfClubs.png"));
+				JLabel background38 = new JLabel (new ImageIcon("img/QueenOfClubs.png"));
 				cards[38].add(background38);
 				background38.setLayout(new FlowLayout());
 
 			cards[39]= new JFrame ("King of Clubs");
 				cards[39].setSize(240,320);
 				cards[39].setLayout(new BorderLayout());
-				JLabel background39 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/KingOfClubs.png"));
+				JLabel background39 = new JLabel (new ImageIcon("img/KingOfClubs.png"));
 				cards[39].add(background39);
 				background39.setLayout(new FlowLayout());
 
 			cards[40]= new JFrame ("Ace of Spades"); 
 				cards[40].setSize(240,320);
 				cards[40].setLayout(new BorderLayout());
-				JLabel background40 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/AceOfSpades.png"));
+				JLabel background40 = new JLabel (new ImageIcon("img/AceOfSpades.png"));
 				cards[40].add(background40);
 				background40.setLayout(new FlowLayout());
 
 			cards[41]= new JFrame ("Two of Spades"); 
 				cards[41].setSize(240,320);
 				cards[41].setLayout(new BorderLayout());
-				JLabel background41 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/TwoOfSpades.png"));
+				JLabel background41 = new JLabel (new ImageIcon("img/TwoOfSpades.png"));
 				cards[41].add(background41);
 				background41.setLayout(new FlowLayout());
 
 			cards[42]= new JFrame ("Three of Spades"); 
 				cards[42].setSize(240,320);
 				cards[42].setLayout(new BorderLayout());
-				JLabel background42 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/ThreeOfSpades.png"));
+				JLabel background42 = new JLabel (new ImageIcon("img/ThreeOfSpades.png"));
 				cards[42].add(background42);
 				background42.setLayout(new FlowLayout());
 
 			cards[43]= new JFrame ("Four of Spades"); 
 				cards[43].setSize(240,320);
 				cards[43].setLayout(new BorderLayout());
-				JLabel background43 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/FourOfSpades.png"));
+				JLabel background43 = new JLabel (new ImageIcon("img/FourOfSpades.png"));
 				cards[43].add(background43);
 				background43.setLayout(new FlowLayout());
 
 			cards[44]= new JFrame ("Five of Spades") ;
 				cards[44].setSize(240,320);
 				cards[44].setLayout(new BorderLayout());
-				JLabel background44 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/FiveOfSpades.png"));
+				JLabel background44 = new JLabel (new ImageIcon("img/FiveOfSpades.png"));
 				cards[44].add(background44);
 				background44.setLayout(new FlowLayout());
 
 			cards[45]= new JFrame ("Six of Spades") ;
 				cards[45].setSize(240,320);
 				cards[45].setLayout(new BorderLayout());
-				JLabel background45 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/SixOfSpades.png"));
+				JLabel background45 = new JLabel (new ImageIcon("img/SixOfSpades.png"));
 				cards[45].add(background45);
 				background45.setLayout(new FlowLayout());
 
 			cards[46]= new JFrame ("Seven of Spades");
 				cards[46].setSize(240,320);
 				cards[46].setLayout(new BorderLayout());
-				JLabel background46 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/SevenOfSpades.png"));
+				JLabel background46 = new JLabel (new ImageIcon("img/SevenOfSpades.png"));
 				cards[46].add(background46);
 				background46.setLayout(new FlowLayout());
 
 			cards[47]= new JFrame ("Eight of Spades") ;
 				cards[47].setSize(240,320);
 				cards[47].setLayout(new BorderLayout());
-				JLabel background47 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/EightOfSpades.png"));
+				JLabel background47 = new JLabel (new ImageIcon("img/EightOfSpades.png"));
 				cards[47].add(background47);
 				background47.setLayout(new FlowLayout());
 
 			cards[48]= new JFrame ("Nine of Spades") ;
 				cards[48].setSize(240,320);
 				cards[48].setLayout(new BorderLayout());
-				JLabel background48 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/NineOfSpades.png"));
+				JLabel background48 = new JLabel (new ImageIcon("img/NineOfSpades.png"));
 				cards[48].add(background48);
 				background48.setLayout(new FlowLayout());
 
 			cards[49]= new JFrame ("Ten of Spades");
 				cards[49].setSize(240,320);
 				cards[49].setLayout(new BorderLayout());
-				JLabel background49 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/TenOfSpades.png"));
+				JLabel background49 = new JLabel (new ImageIcon("img/TenOfSpades.png"));
 				cards[49].add(background49);
 				background49.setLayout(new FlowLayout());
 
 			cards[50]= new JFrame ("Jack of Spades") ;
 				cards[50].setSize(240,320);
 				cards[50].setLayout(new BorderLayout());
-				JLabel background50 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/JackOfSpades.png"));
+				JLabel background50 = new JLabel (new ImageIcon("img/JackOfSpades.png"));
 				cards[50].add(background50);
 				background50.setLayout(new FlowLayout());
 
 			cards[51]= new JFrame ("Queen of Spades") ;
 				cards[51].setSize(240,320);
 				cards[51].setLayout(new BorderLayout());
-				JLabel background51 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/QueenOfSpades.png"));
+				JLabel background51 = new JLabel (new ImageIcon("img/QueenOfSpades.png"));
 				cards[51].add(background51);
 				background51.setLayout(new FlowLayout());
 
 			cards[52]= new JFrame ("King of Spades");
 				cards[52].setSize(240,320);
 				cards[52].setLayout(new BorderLayout());
-				JLabel background52 = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/KingOfSpades.png"));
+				JLabel background52 = new JLabel (new ImageIcon("img/KingOfSpades.png"));
 				cards[52].add(background52);
 				background52.setLayout(new FlowLayout());
 
@@ -429,7 +429,7 @@ public class cards{
 			JButton exit = new JButton("Exit");
 			JButton redeal = new JButton("New Game");
 			JButton stand = new JButton("Stand");
-			//JLabel picture = new JLabel (new ImageIcon("/Users/matthewha/Desktop/blackjack/background.png"));
+			//JLabel picture = new JLabel (new ImageIcon("img/background.png"));
 			//initialframe.add(picture);
 			//picture.setLayout(new FlowLayout());
 			initialpane.add(label);
