@@ -14,6 +14,7 @@ import javax.swing.AbstractAction;
 public class cards{
 
 	static JFrame initialframe;
+	static int clicked;
 	
 	//Cards/Timer
 	static JFrame shit; //first cards dealt
@@ -553,7 +554,7 @@ public class cards{
 			
 
 		hit.addActionListener(new ActionListener(){
-			private int clicked;
+			
 			public void actionPerformed(ActionEvent e1){
 				
 				clicked++;
@@ -652,6 +653,10 @@ public class cards{
 			public void actionPerformed(ActionEvent e1){
 				shit.dispose();
 				shit2.dispose();
+
+				int loopval;
+
+			for(loopval=0; loopval==clicked; loopval++)
 				piss.dispose();
 
 				rnd = (int)(Math.random() * (high-low+1))+low;
